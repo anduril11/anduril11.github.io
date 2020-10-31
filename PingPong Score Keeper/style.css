@@ -1,0 +1,11 @@
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+body {
+    background: cover url('https://images.unsplash.com/photo-1511067007398-7e4b90cfa4bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3898&q=80') ;
+}
