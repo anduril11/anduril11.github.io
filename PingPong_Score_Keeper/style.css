@@ -1,0 +1,16 @@
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+body {
+    background-image: linear-gradient( rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) ), url('pingpongBG.jfif');
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
